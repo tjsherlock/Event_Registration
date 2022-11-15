@@ -7,7 +7,7 @@ As an administrator you will be able to
 Stations are created separately and independently.
 
 The registration form allows the volunteer to select stations.
-The chair has the added ability of assign a volunteer and selecting
+The chair has the added ability of assigning a volunteer and selecting
 stations on her behalf.
 
 Only a single registration may be saved per volunteer per event.
